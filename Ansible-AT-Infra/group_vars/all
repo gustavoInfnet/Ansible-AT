@@ -13,5 +13,5 @@
  public_subnet_2_cidr: "172.27.64.0/18"
  private_subnet_1_cidr: "172.27.128.0/18"
  private_subnet_2_cidr: "172.27.192.0/18"
- keypair_name: "lpmaia-key"
+ keypair_name: "gustavo-key"
  ssh_pubkey: 'ssh-rsa ...'
